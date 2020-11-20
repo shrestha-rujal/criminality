@@ -1,0 +1,201 @@
+id,technical_education,personal_traits,social_characteristics,motivating_factors,criminality
+1, smart , inhuman , unlawful , anger ,1
+2, skilful , insensitive , socially-broken , risk-tolerant ,1
+3, well-trained , risk-taker , unlawful , curiosity ,0
+4, createive , aggressive , lacking-social-support, control-craving ,1
+5, well-networked , insensitive ,Brain-washed , emotions ,1
+6, well-networked , psycho , rebellious , enhancing-self-worth,0
+7, focused , deviant , socially-incept , concealed-existence ,0
+8, opportunists,impatient , anti-social , intolerance ,1
+9, focused , gullible , unlawful , no-fear-of-punishment ,0
+10, strategic , coercive , need-to-outsmart , political ,1
+11, opportunists,impatient , socially-broken , risk-tolerant ,0
+12, goal-oriented , passionate , lacking-social-support, manipulative ,0
+13, strategic , unethical , rationalization , experimentation ,1
+14, well-trained , insensitive , socially-incept , boredom ,1
+15, focused , insensitive , socially-broken , curiosity ,0
+16, resourceful , loner , socially-incept , control-craving ,1
+17, smart , inhuman , lacking-social-support, manipulative ,1
+18, smart , vengeful , socially-incept , enhancing-self-worth,0
+19, strategic , gullible , anti-social , political ,1
+20, well-organized , psycho ,Brain-washed , risk-tolerant ,1
+21, strategic , deviant , rebellious , risk-tolerant ,0
+22, smart ,impatient , unlawful , political ,1
+23,sharp , inhuman , lacking-social-support, emotions ,1
+24, opportunists, unethical , anti-state , curiosity ,0
+25, resourceful , convict , socially-incept , greed ,1
+26, well-organized , strong-willed , socially-incept , unlawful ,0
+27, bully , strong-willed , anti-state , greed ,1
+28, well-organized , risk-taker , anti-state , intolerance ,0
+29, strategic , emotional , anti-state , emotions ,1
+30, skilful , insensitive , lacking-social-support, experimentation ,0
+31, bully , vengeful , anti-social , manipulative ,0
+32,sharp , loner ,Brain-washed ,monetory-gain ,1
+33, well-networked , coercive , intolerant , unlawful ,1
+34, opportunists, inhuman , rationalization ,monetory-gain ,0
+35, well-networked , inhuman , social-dissatisfaction ,monetory-gain ,1
+36, opportunists, passionate , rebellious , curiosity ,1
+37, skilful , incited , lacking-social-support, intolerance ,0
+38, opportunists, coercive , rationalization , emotions ,1
+39, well-trained , coward , anti-social , intolerance ,0
+40, focused , coercive , socially-incept , concealed-existence ,1
+41, bully , emotional , unlawful , political-support ,0
+42, skilful , psycho , socially-broken , thrill-seeking ,1
+43, well-organized ,impatient , rebellious , concealed-existence ,1
+44, skilful , inhuman ,Brain-washed , greed ,1
+45, well-organized , inhuman , intolerant , greed ,1
+46, goal-oriented , passionate , intolerant , unlawful ,1
+47, well-networked , determined , rebellious , revenge ,0
+48, well-trained , insensitive , rationalization , lust ,0
+49,sharp , incited ,Brain-washed , thrill-seeking ,1
+50, focused , strong-willed , unlawful , political-support ,0
+51, well-trained , chaotic-mind , rationalization , greed ,1
+52, resourceful , insensitive ,Brain-washed , control-craving ,1
+53, resourceful , control-freak , need-to-outsmart , political-support ,1
+54, resourceful , coward , socially-broken , emotions ,1
+55, bully , coward , intolerant ,monetory-gain ,0
+56, createive , inhuman , need-to-outsmart , control-craving ,1
+57, skilful , identity-crisis, intolerant , thrill-seeking ,1
+58, skilful , gullible , unlawful , religious-fundamentalism ,0
+59, smart , risk-taker , rationalization , control-craving ,0
+60, createive , insensitive , rationalization , intolerance ,1
+61, goal-oriented , passionate , intolerant , experimentation ,0
+62, strategic , strong-willed , socially-incept , boredom ,0
+63, well-trained , emotional , socially-incept , boredom ,1
+64, well-trained , emotional , social-dissatisfaction , thrill-seeking ,1
+65, strategic , unethical , need-to-outsmart , greed ,1
+66, well-trained , insensitive , rationalization , anger ,1
+67, smart ,impatient , socially-incept , control-craving ,0
+68, well-trained ,impatient , socially-incept , religious-fundamentalism ,0
+69, smart , control-freak , unlawful , curiosity ,1
+70, well-networked , deviant , socially-incept , no-fear-of-punishment ,1
+71, well-trained , chaotic-mind ,Brain-washed , boredom ,1
+72, well-organized , psycho , rebellious , religious-fundamentalism ,1
+73, well-networked , coercive , unlawful , revenge ,0
+74, smart , aggressive , socially-broken , political-support ,1
+75, goal-oriented , loner , intolerant , concealed-existence ,1
+76, focused , convict , rationalization , greed ,0
+77,sharp ,impatient , socially-broken , emotions ,1
+78, smart , vengeful , lacking-social-support, greed ,1
+79, well-networked ,impatient , intolerant , risk-tolerant ,0
+80,sharp , vengeful , anti-social , curiosity ,1
+81, smart , loner , socially-broken , anger ,1
+82, well-trained , loner , anti-social , religious-fundamentalism ,0
+83, skilful , aggressive , socially-broken , curiosity ,1
+84, skilful , coercive , anti-social , risk-tolerant ,1
+85, bully , determined , rationalization , control-craving ,0
+86, strategic , chaotic-mind , intolerant , enhancing-self-worth,0
+87, well-trained , insensitive , anti-state , thrill-seeking ,1
+88, smart , deviant , anti-social ,monetory-gain ,0
+89, opportunists, chaotic-mind , socially-incept ,monetory-gain ,1
+90, createive , unethical , anti-social , emotions ,1
+91, well-organized , determined , anti-social , greed ,1
+92, strategic , coward , anti-social , no-fear-of-punishment ,0
+93, smart , loner , rationalization , political-support ,0
+94, bully , identity-crisis, rebellious , intolerance ,1
+95, smart , loner , intolerant , curiosity ,0
+96, opportunists, strong-willed , anti-state , intolerance ,1
+97, strategic , identity-crisis, socially-incept , no-fear-of-punishment ,0
+98, strategic , loner , lacking-social-support,monetory-gain ,0
+99, resourceful , emotional , lacking-social-support, control-craving ,0
+100, createive , selfish , anti-state , revenge ,1
+101, goal-oriented , gullible , socially-incept , emotions ,1
+102, bully , deviant , anti-social , religious-fundamentalism ,0
+103, skilful , passionate , rationalization , risk-tolerant ,0
+104, resourceful , unethical , anti-social , concealed-existence ,1
+105, well-trained , determined , rebellious , enhancing-self-worth,1
+106, well-networked , identity-crisis, rationalization , greed ,0
+107, well-trained , determined , unlawful , revenge ,0
+108, bully , control-freak , socially-incept , political ,1
+109, strategic , emotional , socially-incept , concealed-existence ,0
+110, smart , strong-willed , lacking-social-support, unlawful ,0
+111, well-networked , control-freak , rationalization , unlawful ,1
+112, well-trained , gullible ,Brain-washed , control-craving ,0
+113, well-trained , coercive , anti-social , no-fear-of-punishment ,0
+114, bully , unethical , socially-broken , anger ,0
+115,sharp , determined , rationalization , anger ,1
+116, opportunists, convict , unlawful , no-fear-of-punishment ,0
+117, goal-oriented , determined , anti-social , experimentation ,0
+118, well-trained , inhuman , unlawful , religious-fundamentalism ,0
+119, well-networked , chaotic-mind , anti-state , intolerance ,1
+120, goal-oriented ,impatient , socially-incept , manipulative ,0
+121, well-trained , deviant , unlawful , greed ,0
+122, goal-oriented , vengeful , anti-social , boredom ,0
+123, strategic , unethical , social-dissatisfaction , boredom ,0
+124, strategic ,impatient , social-dissatisfaction , curiosity ,1
+125, well-organized , determined , anti-state , manipulative ,1
+126, skilful , passionate , intolerant , unlawful ,0
+127, resourceful , unethical , anti-state , intolerance ,1
+128, well-trained , determined , socially-incept , no-fear-of-punishment ,1
+129, smart , chaotic-mind ,Brain-washed , anger ,0
+130, well-networked , coercive , lacking-social-support, religious-fundamentalism ,1
+131, resourceful ,impatient , socially-broken , concealed-existence ,0
+132, resourceful , control-freak , lacking-social-support, political-support ,1
+133, well-trained , coward , anti-state , no-fear-of-punishment ,0
+134, focused , vengeful , unlawful , political ,0
+135, well-organized , identity-crisis, anti-state , revenge ,0
+136, resourceful , unethical , need-to-outsmart ,monetory-gain ,0
+137, well-trained , loner , socially-broken , revenge ,0
+138, focused , determined , rationalization , curiosity ,1
+139, opportunists, loner ,Brain-washed , control-craving ,1
+140, well-organized , secretive , anti-state , revenge ,0
+141, skilful , risk-taker , need-to-outsmart , concealed-existence ,1
+142, createive , insensitive , lacking-social-support, concealed-existence ,1
+143, skilful , risk-taker ,Brain-washed , religious-fundamentalism ,1
+144, goal-oriented , coercive , socially-incept , emotions ,0
+145, skilful , coward , anti-state ,monetory-gain ,1
+146, strategic , selfish , lacking-social-support, concealed-existence ,1
+147, strategic , coercive , socially-broken , control-craving ,0
+148, strategic , passionate , rationalization , unlawful ,0
+149, strategic , incited , anti-social , greed ,1
+150, well-organized , insensitive , lacking-social-support, religious-fundamentalism ,1
+151, bully , chaotic-mind ,Brain-washed , unlawful ,1
+152, createive , risk-taker , social-dissatisfaction , greed ,1
+153,sharp , identity-crisis, lacking-social-support, control-craving ,1
+154, well-networked , psycho , anti-social , no-fear-of-punishment ,1
+155, well-networked , deviant , anti-social , curiosity ,1
+156, opportunists, strong-willed , socially-broken , curiosity ,0
+157, goal-oriented , identity-crisis, anti-state , thrill-seeking ,0
+158, well-networked , chaotic-mind , rebellious , political ,0
+159, opportunists, control-freak , need-to-outsmart , political ,0
+160, goal-oriented , unethical , unlawful , political ,1
+161, well-trained , identity-crisis, lacking-social-support, emotions ,1
+162, resourceful ,impatient , intolerant , religious-fundamentalism ,0
+163, strategic , vengeful , rebellious , enhancing-self-worth,1
+164, smart , unethical , social-dissatisfaction , greed ,0
+165, createive , inhuman , unlawful , revenge ,0
+166, well-organized , identity-crisis, social-dissatisfaction , intolerance ,1
+167,sharp , insensitive , need-to-outsmart , lust ,0
+168, goal-oriented , coward , lacking-social-support, intolerance ,1
+169, focused , secretive , anti-state , manipulative ,0
+170, well-trained , deviant , socially-incept , thrill-seeking ,0
+171, resourceful , insensitive , socially-broken , curiosity ,1
+172, well-trained , determined , intolerant , religious-fundamentalism ,0
+173, smart , incited , lacking-social-support, boredom ,1
+174, well-trained , loner , socially-incept , experimentation ,0
+175, well-trained , determined , social-dissatisfaction , revenge ,0
+176, well-organized , strong-willed ,Brain-washed , unlawful ,1
+177, focused , risk-taker , unlawful , greed ,1
+178, createive , selfish , rebellious , political-support ,1
+179, goal-oriented , emotional , anti-social , religious-fundamentalism ,0
+180, strategic , coercive , rebellious , political-support ,0
+181,sharp , inhuman , socially-incept , risk-tolerant ,0
+182, well-networked , control-freak , anti-social , experimentation ,1
+183, resourceful , vengeful , socially-broken , enhancing-self-worth,0
+184,sharp , unethical , socially-broken , lust ,0
+185,sharp , control-freak , social-dissatisfaction , political-support ,1
+186,sharp , secretive , socially-incept , experimentation ,1
+187, well-trained , secretive , anti-state , boredom ,0
+188, goal-oriented , inhuman , lacking-social-support, political-support ,0
+189, focused , determined , rationalization , anger ,0
+190,sharp , deviant , social-dissatisfaction , thrill-seeking ,1
+191, opportunists, inhuman , rebellious , control-craving ,0
+192, bully , emotional , need-to-outsmart , risk-tolerant ,0
+193,sharp , gullible , socially-broken , experimentation ,0
+194, goal-oriented , vengeful , anti-social , enhancing-self-worth,1
+195, createive , emotional , intolerant , religious-fundamentalism ,1
+196, opportunists, aggressive , lacking-social-support, anger ,0
+197, opportunists, unethical , social-dissatisfaction , concealed-existence ,1
+198, well-organized , coward , need-to-outsmart , thrill-seeking ,1
+199, resourceful , incited , anti-state , religious-fundamentalism ,1
+200, well-trained , chaotic-mind , socially-incept , emotions ,1
